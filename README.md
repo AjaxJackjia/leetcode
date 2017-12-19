@@ -7,7 +7,7 @@ Go: [leetcode](https://leetcode.com/problemset/all/)
 ## Solved
   \#  | Title  | Difficulty
 :----:|:------:|:----:
-1   | [Two Sum](/Two Sum/) | Easy
+1   | [Two Sum](/1_Two_Sum/) | Easy
 217 | [Contains Duplicate](/Contains Duplicate/) | Easy 
 219 | [Contains Duplicate II](/Contains Duplicate II/) | Easy 
 220 | [Contains Duplicate III](/Contains Duplicate II/) | Medium 
